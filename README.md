@@ -1,5 +1,6 @@
 koa-enrouten
 ==================
+![travis](https://travis-ci.org/eggggger/koa-enrouten.svg?branch=master)
 
 based on [koa-router@7](https://github.com/alexmingoia/koa-router/tree/v7.1.0)
 Node version > 6
