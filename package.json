@@ -4,7 +4,7 @@
   "description": "An koa route initialization and configuration module.",
   "main": "lib/index.js",
   "scripts": {
-    "test": "mocha --no-timeouts ./test"
+    "test": "./node_modules/.bin/mocha --no-timeouts ./test"
   },
   "author": "eggggger",
   "license": "MIT",
@@ -13,8 +13,8 @@
     "koa-router": "^7.0.1"
   },
   "devDependencies": {
-    "ava": "^0.17.0",
     "koa": "^2.0.0",
+    "mocha": "^3.2.0",
     "supertest": "^2.0.1"
   },
   "directories": {
