@@ -1,0 +1,20 @@
+{
+  "name": "koa-enrouten",
+  "version": "1.0.0",
+  "description": "An koa route initialization and configuration module.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha --no-timeouts ./test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.1",
+    "koa-router": "^7.0.1"
+  },
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "koa": "^2.0.0",
+    "supertest": "^2.0.1"
+  }
+}
