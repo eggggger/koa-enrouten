@@ -1,5 +1,5 @@
 {
-  "name": "koa-enrouten",
+  "name": "koa-routen",
   "version": "2.0.0",
   "description": "An koa route initialization and configuration module.",
   "main": "lib/index.js",
